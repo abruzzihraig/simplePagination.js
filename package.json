@@ -1,0 +1,25 @@
+{
+  "name": "simple-pagination.js",
+  "version": "1.6.0",
+  "description": "from https://github.com/flaviusmatis/simplePagination.js",
+  "main": "jquery.simplePagination.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abruzzihraig/simplePagination.js.git"
+  },
+  "keywords": [
+    "simplePagination"
+  ],
+  "author": "Abruzzi Hraig <abruzzi.hraig@gmail.com> (http://blog.angular.in/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abruzzihraig/simplePagination.js/issues"
+  },
+  "homepage": "https://github.com/abruzzihraig/simplePagination.js#readme"
+}
